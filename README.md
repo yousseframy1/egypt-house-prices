@@ -49,4 +49,3 @@ This project remains useful as an end-to-end demonstration of:
 - Building predictive models
 - Understanding model limitations
 
-# egypt-house-prices
