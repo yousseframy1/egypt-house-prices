@@ -1,4 +1,3 @@
-# egypt-house-prices
 # 🏠 Egypt House Prices Prediction (Random Forest Model)
 
 This project aims to predict housing prices in Egypt using machine learning, specifically a Random Forest Regressor.
